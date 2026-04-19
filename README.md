@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👾 Hey, I'm error.4O4 (Deva)
 
-<!--
-**Deva16112012/Deva16112012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Curious Builder | Aspiring Red Teamer
 
-Here are some ideas to get you started:
+I'm a 9th-grade student who got into coding out of pure curiosity —  
+I’ve explored **Python, JavaScript, React, and more**, but right now I’m focused on going deeper instead of wider.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately, I’ve been pulled into **cybersecurity**, especially understanding how systems work... and how they can break.
+
+---
+
+### 🛡️ Cybersecurity Journey
+
+Currently on a **"One Room a Day"** streak on TryHackMe —  
+learning the basics of **networking, Linux, and Red Team concepts** step by step.
+
+> Still learning. Still experimenting. Still breaking things (ethically).
+
+---
+
+### 🎯 Current Focus
+
+- 🔍 Exploring **Content Discovery** (Dirb, Dirsearch)  
+- 🧪 Practicing **recon & enumeration basics**  
+- 🌱 Learning **Linux + core cybersecurity fundamentals**  
+- 🛠️ Trying to build things… and actually understand them this time  
+
+---
+
+### ⚙️ What I’ve Touched (so far)
+
+- 💻 Python, JavaScript, HTML/CSS (basics)  
+- ⚛️ React (beginner level)  
+- ☁️ Firebase, AWS, Azure (surface-level exposure)  
+
+---
+
+### 📡 Connect
+
+- 🧠 TryHackMe: [error.4O4](https://tryhackme.com)
+- 💻 GitHub: You’re already here 👀  
+
+---
+
+### ⚡ Fun Fact
+
+> "I started coding for fun… now I’m here trying to understand how everything actually works."
