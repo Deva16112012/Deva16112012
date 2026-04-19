@@ -28,7 +28,7 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 
 ---
 
-### 🎖 What I’ve Touched (so far)
+### ✪ What I’ve Touched (so far)
 
 -  Python, JavaScript, HTML/CSS (basics)  
 -  React (beginner level)  
