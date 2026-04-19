@@ -14,10 +14,16 @@ Lately, I’ve been pulled into **cybersecurity**, especially understanding how 
 Currently on a **"One Room a Day"** streak on TryHackMe —  
 learning the basics of **networking, Linux, and Red Team concepts** step by step.
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/error.4O4.png)](https://tryhackme.com/p/error.4O4)
+
 > Still learning. Still experimenting. Still breaking things (ethically).
 
 ---
+### 📊 GitHub Stats
 
+![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+---
 ### ╰┈➤ Current Focus
 
 -  Exploring **Content Discovery** (Dirb, Dirsearch)  
