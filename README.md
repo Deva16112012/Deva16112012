@@ -19,11 +19,6 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 > Still learning. Still experimenting. Still breaking things (ethically).
 
 ---
-### 📊 GitHub Stats
-
-![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deva16112012&show_icons=true&theme=tokyonight)
-
----
 ### ╰┈➤ Current Focus
 
 -  Exploring **Content Discovery** (Dirb, Dirsearch)  
