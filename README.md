@@ -1,6 +1,6 @@
-# 👾 Hey, I'm error.4O4 (Deva)
+# Hey, I'm error.4O4 (Deva)
 
-### 🧠 Curious Builder | Aspiring Red Teamer
+###  Curious Builder | Aspiring Red Teamer
 
 I'm a 9th-grade student who got into coding out of pure curiosity —  
 I’ve explored **Python, JavaScript, React, and more**, but right now I’m focused on going deeper instead of wider.
@@ -9,7 +9,7 @@ Lately, I’ve been pulled into **cybersecurity**, especially understanding how 
 
 ---
 
-### 🛡️ Cybersecurity Journey
+###  Cybersecurity Journey
 
 Currently on a **"One Room a Day"** streak on TryHackMe —  
 learning the basics of **networking, Linux, and Red Team concepts** step by step.
@@ -18,30 +18,30 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 
-- 🔍 Exploring **Content Discovery** (Dirb, Dirsearch)  
-- 🧪 Practicing **recon & enumeration basics**  
-- 🌱 Learning **Linux + core cybersecurity fundamentals**  
-- 🛠️ Trying to build things… and actually understand them this time  
-
----
-
-### ⚙️ What I’ve Touched (so far)
-
-- 💻 Python, JavaScript, HTML/CSS (basics)  
-- ⚛️ React (beginner level)  
-- ☁️ Firebase, AWS, Azure (surface-level exposure)  
+-  Exploring **Content Discovery** (Dirb, Dirsearch)  
+-  Practicing **recon & enumeration basics**  
+-  Learning **Linux + core cybersecurity fundamentals**  
+-  Trying to build things… and actually understand them this time  
 
 ---
 
-### 📡 Connect
+###  What I’ve Touched (so far)
 
-- 🧠 TryHackMe: [error.4O4](https://tryhackme.com)
-- 💻 GitHub: You’re already here 👀  
+-  Python, JavaScript, HTML/CSS (basics)  
+-  React (beginner level)  
+-  Firebase, AWS, Azure (surface-level exposure)  
 
 ---
 
-### ⚡ Fun Fact
+###  Connect
+
+-  TryHackMe: [error.4O4](https://tryhackme.com)
+-  GitHub: You’re already here 👀  
+
+---
+
+###  Fun Fact
 
 > "I started coding for fun… now I’m here trying to understand how everything actually works."
