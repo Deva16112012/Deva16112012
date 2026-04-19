@@ -2,16 +2,16 @@
 
 ### ⓘ Curious Builder | Aspiring Red Teamer
 
-I'm a 9th-grade student who got into coding out of pure curiosity —  
+I'm a 9th-grade student who learnt coding as another normal hobby   
 I’ve explored *Python, JavaScript, React, and more*, but right now I’m focused on going **deeper** instead of *wider*.
 
-Lately, I’ve been pulled into *cybersecurity*, especially understanding how systems work... and how they can *break* ⚕.
+Lately, I’ve been pulled into *cybersecurity*, especially understanding how systems work... and how they can *break* [ethically ofc].
 
 ---
 
 ### 🗲 Cybersecurity Journey 🗲
 
-Currently on a **"One Room a Day"** streak on TryHackMe —  
+Currently on a **"One Room a Day"** streak on TryHackMe   
 learning the basics of **networking, Linux, and Red Team concepts** step by step.
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/error.4O4.png)](https://tryhackme.com/p/error.4O4)
