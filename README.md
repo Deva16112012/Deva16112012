@@ -21,10 +21,10 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 ---
 ### ╰┈➤ Current Focus
 
-- ⁀➴ Exploring **Content Discovery** (Dirb, Dirsearch)  
-- 🖋 Practicing **recon & enumeration basics**  
-- 🗒 Learning **Linux + core cybersecurity fundamentals**  
-- ⌖ *Trying to build things… and actually **understand** them this time* 
+- ᯓ✈︎ Exploring **Content Discovery** (Dirb, Dirsearch)  
+- ⁀➴ Practicing **recon & enumeration basics**  
+- </> Learning **Linux + core cybersecurity fundamentals**  
+⤷  𖥠 *Trying to build things… and actually **understand** them this time* 
 
 ---
 
