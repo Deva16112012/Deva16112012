@@ -2,7 +2,7 @@
 
 ### ⓘ Curious Builder | Aspiring Red Teamer
 
-I'm a 9th-grade student who learnt coding as another normal hobby   
+I'm a 9th-grade student who picked up coding as a hobby.  
 I’ve explored *Python, JavaScript, React, and more*, but right now I’m focused on going **deeper** instead of *wider*.
 
 Lately, I’ve been pulled into *cybersecurity*, especially understanding how systems work... and how they can *break* [ethically ofc].
