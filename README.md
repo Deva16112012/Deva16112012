@@ -3,9 +3,9 @@
 ### ⓘ Curious Builder | Aspiring Red Teamer
 
 I'm a 9th-grade student who got into coding out of pure curiosity —  
-I’ve explored **Python, JavaScript, React, and more**, but right now I’m focused on going deeper instead of wider.
+I’ve explored *Python, JavaScript, React, and more*, but right now I’m focused on going **deeper** instead of *wider*.
 
-Lately, I’ve been pulled into **cybersecurity**, especially understanding how systems work... and how they can break ⚕.
+Lately, I’ve been pulled into *cybersecurity*, especially understanding how systems work... and how they can *break* ⚕.
 
 ---
 
@@ -16,15 +16,15 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/error.4O4.png)](https://tryhackme.com/p/error.4O4)
 
-> Still learning. Still experimenting. Still breaking things (ethically).
+> Still learning. Still experimenting. Still breaking things *(ethically)*.
 
 ---
 ### ╰┈➤ Current Focus
 
--  Exploring **Content Discovery** (Dirb, Dirsearch)  
--  Practicing **recon & enumeration basics**  
--  Learning **Linux + core cybersecurity fundamentals**  
--  Trying to build things… and actually understand them this time  
+- ⁀➴ Exploring **Content Discovery** (Dirb, Dirsearch)  
+- 🖋 Practicing **recon & enumeration basics**  
+- 🗒 Learning **Linux + core cybersecurity fundamentals**  
+- ⌖ *Trying to build things… and actually **understand** them this time* 
 
 ---
 
@@ -45,4 +45,4 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 
 ### ☕︎ Fun Fact
 
-> "I started coding for fun… now I’m here trying to understand how everything actually works."
+> "I started coding for *fun*… now I’m here trying to *understand how everything actually works*."
