@@ -21,7 +21,7 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 ---
 ### 📊 GitHub Stats
 
-![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deva16112012&show_icons=true&theme=tokyonight)
 
 ---
 ### ╰┈➤ Current Focus
