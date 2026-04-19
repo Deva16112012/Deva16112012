@@ -38,8 +38,8 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 
 ### ❯❯❯❯ Connect
 
--  TryHackMe: [error.4O4](https://tryhackme.com)
--  GitHub: You’re already here 👀  
+-  TryHackMe: [error.4O4](https://tryhackme.com/p/error.4O4)
+-  GitHub: ⚠︎ You’re already here!   
 
 ---
 
