@@ -44,5 +44,5 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 ---
 
 ### ☕︎ Fun Fact
-
+ 
 > "I started coding for *fun*… now I’m here trying to *understand how everything actually works*."
