@@ -25,7 +25,7 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 - ⁀➴ Practicing **recon & enumeration basics**  
 - </> Learning **Linux + core cybersecurity fundamentals**
 <br><br>
-⤷  𖥠 *Trying to build things… and actually **understand** them this time* 
+⤷    𖥠 *Trying to build things… and actually **understand** them this time* 
 
 ---
 
