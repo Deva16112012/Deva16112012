@@ -18,7 +18,7 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 
 > Still learning. Still experimenting. Still breaking things *(ethically)*.
 
-![test](https://via.placeholder.com/150)
+![test]([https://via.placeholder.com/150](https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg))
 
 ---
 ### ╰┈➤ Current Focus
