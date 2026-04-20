@@ -1,6 +1,6 @@
 # Hey ✌︎, I'm error.4O4 (Deva)
 
-### ⓘ Curious Builder | Aspiring Red Teamer
+### ⓘ Curious Builder | Exploring Cybersecurity
 
 I'm a 9th-grade student who picked up coding as a hobby.  
 I’ve explored *Python, JavaScript, React, and more*, but right now I’m focused on going **deeper** instead of *wider*.
@@ -47,3 +47,11 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 ### ☕︎ Fun Fact
  
 > "I started coding for *fun*… now I’m here trying to *understand how everything actually works*."
+
+### ◼◼◼☐☐ Progress
+
+- Day 1: Offensive security
+- Day 2: Deffensive Security
+- Day 3: Cyber Seecurity Jobs
+- Day 4: ...
+
