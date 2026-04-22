@@ -53,5 +53,6 @@ learning the basics of **networking, Linux, and Red Team concepts** step by step
 - Day 1: Offensive security
 - Day 2: Deffensive Security
 - Day 3: Cyber Seecurity Jobs
-- Day 4: ...
+- Day 4: Networking
+- Day 5: 
 
